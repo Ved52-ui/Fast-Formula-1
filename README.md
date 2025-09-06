@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[docs/_static/banner.png](https://www.oracle.com/node/oce/storyhub/prod/api/v1.1/assets/CONTB819DDAAB3654C15A3FD09BDBB6CE804/native/redbull-1.png)" width="400">
+<img src="https://www.oracle.com/node/oce/storyhub/prod/api/v1.1/assets/CONTB819DDAAB3654C15A3FD09BDBB6CE804/native/redbull-1.png" width="400">
 </h1><br>
 A python package for accessing and analyzing Formula 1 results,
 schedules, timing data and telemetry.
