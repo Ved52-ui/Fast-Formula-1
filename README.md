@@ -3,7 +3,7 @@
 </h1><br>
 A python package for accessing and analyzing Formula 1 results,
 schedules, timing data and telemetry.
-jdj
+jd
 ## Main Features
 
 - Access to F1 timing data, telemetry, sessions results and more
